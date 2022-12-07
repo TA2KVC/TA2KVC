@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TA2KVC
-- 👀 I’m interested in ducks and electronics
+- 👋 Hi, I’m @TA2KVC Volkan
+- 👀 I’m interested in ducks, electronics, software, hardware, programming, DIY projects
 - 🌱 I’m currently learning coding
-- 📫 How to reach me twitter/TA2KVC
+- 📫 Reach me: @ twitter/TA2KVC
 
 <!---
 TA2KVC/TA2KVC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
